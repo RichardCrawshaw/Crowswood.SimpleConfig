@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <String>This is a string</String>
+  <Int>55</Int>
+  <Bool>true</Bool>
+  <Decimal>87.65</Decimal>
+  <DateTime>2020-08-09T10:11:00</DateTime>
+</Config>
